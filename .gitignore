@@ -1,0 +1,15 @@
+# Python önbelleği
+__pycache__/
+*.pyc
+
+# Sanal ortam klasörü
+.venv/
+venv/
+ENV/
+
+# 'preprocessing.py' ile oluşturulan büyük dosyalar
+*.npy
+films_data.csv
+
+# VS Code ayarları
+.vscode/
